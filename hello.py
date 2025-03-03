@@ -10,6 +10,6 @@ if User_Age < 18:
 elif User_Age < 49:
     print(f"You are {User_Age}? You are aging.")
 elif User_Age > 50:
-    print(f"You are way over your 50s? You are old.")
+    print("You are way over your 50s? You are old.")
 
 
