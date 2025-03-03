@@ -1,2 +1,2 @@
-print("Hello, World!")
-print("My favourite device to use is a laptop")
+print("Hello there, User.")
+print("My favourite device to use is a laptop!")
