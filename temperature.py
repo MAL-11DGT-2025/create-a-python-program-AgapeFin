@@ -4,6 +4,7 @@ def convert(number, choice):
     elif choice == "c":
         result = number * (9/5) + 32
         print(result)
+convert()
 
 temperature = input("Do you want to convert:\n\na) Farenheit to Celsius\nb) Celsius to Farenheit\n\nInput here: ")
 number = float(input("\nWhat is the temperature you would like to convert?\n\nInput Here: "))
